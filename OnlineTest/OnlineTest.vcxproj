@@ -184,6 +184,11 @@
     <ClCompile Include="src\experience\exp4671_8.3.cpp" />
     <ClCompile Include="src\experience\exp4672.cpp" />
     <ClCompile Include="src\experience\exp4674_9.2.cpp" />
+    <ClCompile Include="src\experience\exp4675_9.3.cpp" />
+    <ClCompile Include="src\experience\exp4676_9.4.cpp" />
+    <ClCompile Include="src\experience\exp4678_10.1.cpp" />
+    <ClCompile Include="src\experience\exp4679_10.2.cpp" />
+    <ClCompile Include="src\experience\exp4680_10.3.cpp" />
     <ClCompile Include="src\function\func1.cpp" />
     <ClCompile Include="src\function\func2_hard.cpp" />
     <ClCompile Include="src\function\func3_suHard.cpp" />
@@ -198,6 +203,7 @@
     <ClCompile Include="src\string\str2_middle.cpp" />
     <ClCompile Include="src\string\str3_middle.cpp" />
     <ClCompile Include="src\string\str4_middle.cpp" />
+    <ClCompile Include="src\string\str_查找.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
